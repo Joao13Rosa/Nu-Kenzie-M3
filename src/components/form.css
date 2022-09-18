@@ -1,0 +1,42 @@
+form {
+  padding-top: 1rem;
+}
+
+.input-descricao {
+  align-items: center;
+  background: #f8f9fa;
+  border: 2px solid #f8f9fa;
+  border-radius: 8px;
+  height: 2rem;
+  margin-bottom: 2rem;
+  width: 16rem;
+  padding-left: 1rem;
+}
+
+.input-valor {
+  align-items: center;
+  background: #f8f9fa;
+  border: 2px solid #f8f9fa;
+  border-radius: 8px;
+  height: 2rem;
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+}
+
+.select-tipo {
+  align-items: center;
+  background: #f8f9fa;
+  border: 2px solid #f8f9fa;
+  border-radius: 8px;
+  height: 2rem;
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+}
+
+.button-enviar {
+  background: #fd377e;
+  height: 2.5rem;
+  width: 17rem;
+  border: 2px solid #fd377e;
+  border-radius: 8px;
+}
